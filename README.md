@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/iamkhateeb_" target="blank"><img src="https://img.shields.io/twitter/follow/iamkhateeb_?logo=twitter&style=for-the-badge" alt="iamkhateeb_" /></a> </p>
 
-- 🔭 I’m currently working on [Heal Buddy](https://healbuddybykhateeb.netlify.app/)
+- 🔭 I’m currently working on [LearnShala](https://learnshala-react-frontend.vercel.app)
 
-- 🌱 I’m currently learning **Next, TypeScript**
+- 🌱 I’m currently learning **Next, TypeScript** and **Scalable Backend Systems**
 
-- 👨‍💻 All of my projects are available at [https://iamkhateeb.netlify.app/](https://iamkhateeb.netlify.app/)
+- 👨‍💻 All about me here at [iamkhateeb_](https://iamkhateeb.netlify.app/)
 
-- 💬 Ask me about **MongoDB, Express.js, React, Node.js, JavaScript(ES6+)**
+- 💬 Ask me about **MongoDB, Express.js, React, Next, Node.js, JavaScript(ES6+), Typescript, MySQL, PostgreSQL etc.**
 
 - 📫 How to reach me **luckykhateeb2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1udlJ6RAC_Park_P6JbGVicwmjap2CHDt/view](https://drive.google.com/file/d/1udlJ6RAC_Park_P6JbGVicwmjap2CHDt/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OVuX2e0B0ZM9fKKZp-DBzWWp32RjZb7q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
