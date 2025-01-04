@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **luckykhateeb2@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OVuX2e0B0ZM9fKKZp-DBzWWp32RjZb7q/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Rjh-7aYOa7sHP6ozrHMX9tLjSZJKQQwm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
