@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MongoDB, Express.js, React, Next, Node.js, JavaScript(ES6+), Typescript, MySQL, PostgreSQL etc.**
 
-- 📫 How to reach me **luckykhateeb2@gmail.com**
+- 📫 How to reach me **luckykhateeb4@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Rjh-7aYOa7sHP6ozrHMX9tLjSZJKQQwm/view)
 
