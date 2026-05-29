@@ -11,6 +11,33 @@
 📌 Portfolio: [Md Khateebur Rab](https://iamkhateeb.netlify.app/)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                669 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌆 Daytime                1036 commits        █████████░░░░░░░░░░░░░░░░   36.65 % 
+🌃 Evening                874 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌙 Night                  248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Tuesday                  357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Wednesday                706 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Thursday                 485 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Friday                   624 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Saturday                 258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
