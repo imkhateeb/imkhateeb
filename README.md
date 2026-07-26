@@ -11,24 +11,24 @@
 📌 Portfolio: [Md Khateebur Rab](https://iamkhateeb.netlify.app/)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                699 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-🌆 Daytime                1207 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
-🌃 Evening                979 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-🌙 Night                  276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+🌞 Morning                127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+🌆 Daytime                264 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌃 Evening                365 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
+🌙 Night                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Tuesday                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Wednesday                732 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Thursday                 562 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Friday                   743 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Saturday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Wednesday                151 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 ```
 
 
@@ -41,11 +41,11 @@ Sunday                   141 commits         █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               39 repos            ███████████████░░░░░░░░░░   58.21 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               39 repos            ███████████████░░░░░░░░░░   59.09 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
