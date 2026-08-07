@@ -11,39 +11,6 @@
 📌 Portfolio: [Md Khateebur Rab](https://iamkhateeb.netlify.app/)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-🌆 Daytime                264 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
-🌃 Evening                365 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
-🌙 Night                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Tuesday                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Wednesday                151 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Sunday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
